@@ -1,0 +1,6 @@
+# Keep model weights as regular binary files (not diffed as text).
+*.pt   binary
+*.pth  binary
+*.onnx binary
+*.engine binary
+*.h5   binary
